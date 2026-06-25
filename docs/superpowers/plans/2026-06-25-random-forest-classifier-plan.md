@@ -2,6 +2,7 @@
 change: create-node-package
 design-doc: docs/superpowers/specs/2026-06-25-random-forest-classifier-design.md
 base-ref: a0d4ab90234cab2970c0ffeff1883219c83bc9c9
+archived-with: 2026-06-25-create-node-package
 ---
 
 # Random Forest Classifier Node Package Implementation Plan

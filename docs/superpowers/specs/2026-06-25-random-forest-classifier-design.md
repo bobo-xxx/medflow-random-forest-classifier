@@ -2,6 +2,8 @@
 comet_change: create-node-package
 role: technical-design
 canonical_spec: openspec
+archived-with: 2026-06-25-create-node-package
+status: final
 ---
 
 # Random Forest Classifier Node Package Design

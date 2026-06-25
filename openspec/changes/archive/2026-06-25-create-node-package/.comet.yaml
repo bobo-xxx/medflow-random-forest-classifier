@@ -17,7 +17,7 @@ verification_report: docs/superpowers/reports/2026-06-25-create-node-package-ver
 branch_status: handled
 created_at: 2026-06-25
 verified_at: 2026-06-25
-archived: false
+archived: true
 build_command: Rscript -e 'testthat::test_dir("tests/testthat/")'
 handoff_context: openspec/changes/create-node-package/.comet/handoff/design-context.json
 handoff_hash: bad3c23fd048924825d1569f816f0500527ec9993d8dfe78f1216ba7928f10eb
