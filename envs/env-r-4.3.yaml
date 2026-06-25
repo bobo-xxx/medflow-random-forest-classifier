@@ -1,6 +1,15 @@
+name: random-forest-classifier
 channels:
   - conda-forge
   - bioconda
 dependencies:
   - r-base=4.3
   - r-essentials
+  - r-randomforest
+  - r-dplyr
+  - r-ggplot2
+  - r-reshape2
+  - r-yaml
+  - r-filelock
+  - r-jsonlite
+  - r-testthat

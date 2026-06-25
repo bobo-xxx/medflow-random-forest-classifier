@@ -1,0 +1,14 @@
+{
+  "change": "create-node-package",
+  "phase": "design",
+  "mode": "compact",
+  "canonical_spec": "openspec",
+  "generated_by": "comet-handoff.sh",
+  "context_hash": "bad3c23fd048924825d1569f816f0500527ec9993d8dfe78f1216ba7928f10eb",
+  "files": [
+    { "path": "openspec/changes/create-node-package/proposal.md", "sha256": "9f3be7d1e035d23c44da2e28eff8c02ab32715ea48998994cd63378bca84cfac" },
+    { "path": "openspec/changes/create-node-package/design.md", "sha256": "7ea3c3026538ab0a577773044e6bd32c52fb9d3ae83f7f63c6e7f7001afcb73f" },
+    { "path": "openspec/changes/create-node-package/tasks.md", "sha256": "79f19a4aecbd82aee59aa603b8dbccbf992e2976f01d6b29050b533afd97880d" },
+    { "path": "openspec/changes/create-node-package/specs/random-forest-classifier/spec.md", "sha256": "a9c8562248422b99a617f08a6d7b31ba62b3794f6be318f2ffdc64c690c48476" }
+  ]
+}
