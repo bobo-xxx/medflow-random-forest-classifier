@@ -65,9 +65,11 @@ outputs:
     semantic_type: model_object
     description: "Serialized randomForest model object for downstream prediction"
 
-file_layout: flat
-file_discovery: explicit
-conditional_outputs: true
+file_layout:
+  nesting: flat
+file_discovery:
+  recursive: false
+  pattern: "*.csv"
 
 entry: scripts/main.R
 
